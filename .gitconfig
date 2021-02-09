@@ -1,0 +1,6 @@
+[user]
+name = appleseed
+email = apple12347678@gmail.com
+
+[push]
+default = current
